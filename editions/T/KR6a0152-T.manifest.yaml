@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0152/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0152/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 國王不梨先泥十夢經
+  identifiers:
+    krp: KR6a0152
+    cbeta: T02n0148
+    cbeta_old_id: T02n0148
+    authorityid: CA0001300
+    json_key: T0148
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0148.xml
+    old_id: T02n0148
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0152_000-T.yaml, hash: 'sha256:dc68929dbce67529dd660ea67aa5376aebdfde22d7227f7199c47ed900c5308a'}
+  - {seq: 1, filename: KR6a0152_001-T.yaml, hash: 'sha256:b8c2126115ac330ce94cccf99c9fec5da1a22630f0c372bc8547bb37be7bfca1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0152_000-T.markers.yaml, hash: 'sha256:4c80b0690c4fc6a770c694fdb050bbf4a671435f9488c73bccd4899b87ebc327'}
+  - {seq: 1, role: markers, filename: assets/KR6a0152_001-T.markers.yaml, hash: 'sha256:3ee1110b5cee322863be20103cb2ca83926b4acc393a7c56a8e69ed8276b6ca8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0152_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1794
+  label: 國王不梨先泥十夢經
+  type: juan
+  level: 1
+hash: sha256:c6bfd171e1eaa8b38256f3e030b2d36bd1f22e94ec85967796efd88695f2aec0

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0152/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 國王不梨先泥十夢經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0148.xml
+    old_id: T02n0148
+hash: sha256:dc68929dbce67529dd660ea67aa5376aebdfde22d7227f7199c47ed900c5308a
