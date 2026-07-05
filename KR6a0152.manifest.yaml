@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0152_000.yaml, hash: 'sha256:dc68929dbce67529dd660ea67aa5376aebdfde22d7227f7199c47ed900c5308a'}
-  - {seq: 1, filename: KR6a0152_001.yaml, hash: 'sha256:4ff71fe01eb0fb6d4ddb61ed7c98f85480a0989c2375874aeaaf670db056a84b'}
+  - {seq: 1, filename: KR6a0152_001.yaml, hash: 'sha256:b8c2126115ac330ce94cccf99c9fec5da1a22630f0c372bc8547bb37be7bfca1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0152_001.markers.yaml, hash: 'sha256:61afcaaaefd6738ef089ea13184d89c7763ec787e3706fcc4815d04448205f89'}
+  - {seq: 0, role: markers, filename: assets/KR6a0152_000.markers.yaml, hash: 'sha256:274d1efea1caec1cc58a42b142311a9de3930840465cbd6050dbdfbe1e9fd280'}
+  - {seq: 1, role: markers, filename: assets/KR6a0152_001.markers.yaml, hash: 'sha256:ee8e71ebaecf050f0fb93591abfd4b07ad2b38c41e462ec2d3520e65f270a46b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 國王不梨先泥十夢經
   type: juan
   level: 1
-hash: sha256:1b32a9ab5738c4e2093ce58770666daa6c3e34aec88215b5de3d5024681f1d88
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:321bb07ed3a621ae961be8efbf08aae32aa251baa4611fdf00aa1b2e6420c83a
