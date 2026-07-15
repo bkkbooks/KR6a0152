@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0152/v1
 canonical_location: https://kanripo.org/bkk/KR6a0152/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 國王不梨先泥十夢經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0152_000.yaml, hash: 'sha256:dc68929dbce67529dd660ea67aa5376aebdfde22d7227f7199c47ed900c5308a'}
-  - {seq: 1, filename: KR6a0152_001.yaml, hash: 'sha256:b8c2126115ac330ce94cccf99c9fec5da1a22630f0c372bc8547bb37be7bfca1'}
+  - {seq: 1, filename: KR6a0152_001.yaml, hash: 'sha256:0defe3618f11cd77ae74964fbcaa7fab851ebc5ef3e3546c72ea23f82ae2fe13'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0152_000.markers.yaml, hash: 'sha256:274d1efea1caec1cc58a42b142311a9de3930840465cbd6050dbdfbe1e9fd280'}
-  - {seq: 1, role: markers, filename: assets/KR6a0152_001.markers.yaml, hash: 'sha256:ee8e71ebaecf050f0fb93591abfd4b07ad2b38c41e462ec2d3520e65f270a46b'}
+  - {seq: 1, role: markers, filename: assets/KR6a0152_001.markers.yaml, hash: 'sha256:69a9b877b69a3e0c47ea57241220160fc27a04cfa6333f4e2366323b2bd44982'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 國王不梨先泥十夢經
   type: juan
   level: 1
-hash: sha256:321bb07ed3a621ae961be8efbf08aae32aa251baa4611fdf00aa1b2e6420c83a
+hash: sha256:9e6a9230d62f2e34f644288198b7caa4807528656a762d86f9bce7e295391243
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
