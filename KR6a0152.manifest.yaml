@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0152_000.yaml, hash: 'sha256:dc68929dbce67529dd660ea67aa5376aebdfde22d7227f7199c47ed900c5308a'}
   - {seq: 1, filename: KR6a0152_001.yaml, hash: 'sha256:0defe3618f11cd77ae74964fbcaa7fab851ebc5ef3e3546c72ea23f82ae2fe13'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0152_000.markers.yaml, hash: 'sha256:274d1efea1caec1cc58a42b142311a9de3930840465cbd6050dbdfbe1e9fd280'}
+  - {seq: 0, role: markers, filename: assets/KR6a0152_000.markers.yaml, hash: 'sha256:669f1f6784453b9f946acea6708dac92fab0c15883bc7893c1512d955213aeba'}
   - {seq: 1, role: markers, filename: assets/KR6a0152_001.markers.yaml, hash: 'sha256:69a9b877b69a3e0c47ea57241220160fc27a04cfa6333f4e2366323b2bd44982'}
 table_of_contents:
 - ref:
@@ -43,7 +43,7 @@ table_of_contents:
   label: 國王不梨先泥十夢經
   type: juan
   level: 1
-hash: sha256:9e6a9230d62f2e34f644288198b7caa4807528656a762d86f9bce7e295391243
+hash: sha256:d99542d873fe50b11366e0873d385b678fbe07a8d6432b21d56b98e18b8e8346
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
